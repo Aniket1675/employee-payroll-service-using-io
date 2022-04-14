@@ -1,4 +1,3 @@
-package com.bridgelabz;
 import java.nio.file.*;
 import java.nio.file.WatchEvent.Kind;
 import java.nio.file.attribute.BasicFileAttributes;
